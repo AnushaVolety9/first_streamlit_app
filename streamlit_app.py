@@ -1,1 +1,3 @@
-Created one streamlit app lol
+import streamlit
+
+streamlit.title('Dad see im growing :D')
